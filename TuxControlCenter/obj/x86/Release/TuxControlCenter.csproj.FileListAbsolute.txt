@@ -1,0 +1,16 @@
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\TuxControlCenter\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\TuxControlCenter\obj\x86\Release\MainWindow.baml
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\TuxControlCenter\obj\x86\Release\MainWindow.g.cs
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\TuxControlCenter\obj\x86\Release\App.g.cs
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\TuxControlCenter\obj\x86\Release\TuxControlCenter_MarkupCompile.cache
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\TuxControlCenter\obj\x86\Release\TuxControlCenter.g.resources
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\TuxControlCenter\obj\x86\Release\TuxControlCenter.Properties.Resources.resources
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\TuxControlCenter\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\TuxControlCenter\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\TuxControlCenter\bin\Release\TuxControlCenter.exe
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\TuxControlCenter\bin\Release\TuxControlCenter.pdb
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\TuxControlCenter\bin\Release\eZ430_Chronos_Net.dll
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\TuxControlCenter\obj\x86\Release\TuxControlCenter.exe
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\TuxControlCenter\obj\x86\Release\TuxControlCenter.pdb
+C:\Users\Julian\Dropbox\Documents\Repository-Export\Intern-Export2\TuxControl\TuxControlCenter\obj\x86\Release\TuxControlCenter.exe
+C:\Users\Julian\Dropbox\Documents\Repository-Export\Intern-Export2\TuxControl\TuxControlCenter\obj\x86\Release\TuxControlCenter.pdb

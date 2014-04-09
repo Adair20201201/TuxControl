@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuxControl", "TuxControl\TuxControl.csproj", "{29BCCFC4-1B45-45B5-8FED-30195407E9BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyPressTest", "KeyPressTest\KeyPressTest.csproj", "{3CA3CACE-77EA-47B9-B96D-1F1D61887C74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuxControlCenter", "TuxControlCenter\TuxControlCenter.csproj", "{20DEBB1D-5FAE-4576-BD25-FFD6E82B7B27}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TuxControlSetup", "TuxControlSetup\TuxControlSetup.vdproj", "{44BEAE14-4395-45DD-A04E-64F88EA85ABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29BCCFC4-1B45-45B5-8FED-30195407E9BE}.Debug|x86.ActiveCfg = Debug|x86
+		{29BCCFC4-1B45-45B5-8FED-30195407E9BE}.Debug|x86.Build.0 = Debug|x86
+		{29BCCFC4-1B45-45B5-8FED-30195407E9BE}.Release|x86.ActiveCfg = Release|x86
+		{29BCCFC4-1B45-45B5-8FED-30195407E9BE}.Release|x86.Build.0 = Release|x86
+		{3CA3CACE-77EA-47B9-B96D-1F1D61887C74}.Debug|x86.ActiveCfg = Debug|x86
+		{3CA3CACE-77EA-47B9-B96D-1F1D61887C74}.Debug|x86.Build.0 = Debug|x86
+		{3CA3CACE-77EA-47B9-B96D-1F1D61887C74}.Release|x86.ActiveCfg = Release|x86
+		{3CA3CACE-77EA-47B9-B96D-1F1D61887C74}.Release|x86.Build.0 = Release|x86
+		{20DEBB1D-5FAE-4576-BD25-FFD6E82B7B27}.Debug|x86.ActiveCfg = Debug|x86
+		{20DEBB1D-5FAE-4576-BD25-FFD6E82B7B27}.Debug|x86.Build.0 = Debug|x86
+		{20DEBB1D-5FAE-4576-BD25-FFD6E82B7B27}.Release|x86.ActiveCfg = Release|x86
+		{20DEBB1D-5FAE-4576-BD25-FFD6E82B7B27}.Release|x86.Build.0 = Release|x86
+		{44BEAE14-4395-45DD-A04E-64F88EA85ABB}.Debug|x86.ActiveCfg = Debug
+		{44BEAE14-4395-45DD-A04E-64F88EA85ABB}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+c:\users\elite\documents\visual studio 2010\Projects\TuxControl\KeyPressTest\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\elite\documents\visual studio 2010\Projects\TuxControl\KeyPressTest\bin\Debug\KeyPressTest.exe
+c:\users\elite\documents\visual studio 2010\Projects\TuxControl\KeyPressTest\bin\Debug\KeyPressTest.pdb
+c:\users\elite\documents\visual studio 2010\Projects\TuxControl\KeyPressTest\obj\x86\Debug\KeyPressTest.exe
+c:\users\elite\documents\visual studio 2010\Projects\TuxControl\KeyPressTest\obj\x86\Debug\KeyPressTest.pdb

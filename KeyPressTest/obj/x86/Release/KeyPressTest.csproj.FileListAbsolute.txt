@@ -1,0 +1,6 @@
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\KeyPressTest\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\KeyPressTest\bin\Release\KeyPressTest.exe
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\KeyPressTest\bin\Release\KeyPressTest.pdb
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\KeyPressTest\bin\Release\eZ430_Chronos_Net.dll
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\KeyPressTest\obj\x86\Release\KeyPressTest.exe
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\KeyPressTest\obj\x86\Release\KeyPressTest.pdb

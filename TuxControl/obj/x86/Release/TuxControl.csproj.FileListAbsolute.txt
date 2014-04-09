@@ -1,0 +1,9 @@
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\TuxControl\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\TuxControl\obj\x86\Release\TuxControl.ProjectInstaller.resources
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\TuxControl\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\TuxControl\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\TuxControl\bin\Release\TuxControl.exe
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\TuxControl\bin\Release\TuxControl.pdb
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\TuxControl\bin\Release\eZ430_Chronos_Net.dll
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\TuxControl\obj\x86\Release\TuxControl.exe
+C:\Users\elite\documents\visual studio 2010\Projects\TuxControl\TuxControl\obj\x86\Release\TuxControl.pdb
